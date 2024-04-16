@@ -1,0 +1,30 @@
+.card {
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 4px rgba(0, 0, 0, 0.2);
+  background-color: #e9b6b6a5;
+  margin-bottom: 2em;
+}
+
+.card img {
+  max-width: 100%;
+  margin: 0 auto 10px;
+}
+
+.card p {
+  font-size: 24px;
+  text-transform: capitalize;
+}
+
+.card span {
+  margin: 4px;
+}
+
+/* 
+    Etiqueta -> Selecciona todos los elementos de esa etiqueta
+    Clase -> Selecciona todas las etiquetas de la misma class
+    Id -> Selecciona la primera etiqueta que tenga ese id
+*/
